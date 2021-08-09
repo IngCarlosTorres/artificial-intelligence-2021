@@ -1,0 +1,18 @@
+
+#content{
+    height: auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+#contenidolog{
+    width: 40%;
+    text-align: left;
+}
+
+#contenidocontenidoestados{
+    width: 40%;
+    text-align: left;
+}
