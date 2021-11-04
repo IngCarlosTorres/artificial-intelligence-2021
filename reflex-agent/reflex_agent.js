@@ -8,7 +8,7 @@ let state5 = 0;
 let state6 = 0;
 let state7 = 0;
 let state8 = 0;
-let states = ["A", "DIRTY", "DIRTY"]; 
+let states = ["A", "DIRTY", "DIRTY"];  
 
 function reflex_agent(location, state) {
     if (state == "DIRTY") return "CLEAN";
